@@ -1,13 +1,12 @@
 # [Book] [Alex Libby] Practical Next.js for E-Commerce [ENG, 2023]
 
-**Original Src:**  
-https://github.com/Apress/Practical-Next.js-for-E-Commerce
+<br/>
+
+## Chapter 02: Laying the Foundations
 
 <br/>
 
-### [Environment](./docs/Environment.md)
-
-### [Chapter 02: Laying the Foundations](./docs/Chapter02.md)
+![Application](/img/pic-ch02-img01.png?raw=true)
 
 <br/>
 
